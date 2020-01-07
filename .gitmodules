@@ -1,0 +1,8 @@
+[submodule "northwind"]
+	path = northwind
+	url = https://github.com/armarti/import-northwind
+	branch = rearranged
+[submodule "imdb"]
+	path = imdb
+	url = https://github.com/armarti/import_imdb.git
+	branch = rearranged
